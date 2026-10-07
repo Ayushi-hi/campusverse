@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎓 CampusVerse
 
-# Run and deploy your AI Studio app
+CampusVerse is a smart campus platform designed to help students discover campus events, manage their schedules, and easily access important campus activities in one place.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/40d42cfa-4466-4e79-a2c0-b565703500b5
+* 🗺️ Interactive campus map
+* 📅 Campus event discovery
+* ⏰ Timetable helper
+* 📝 Event registration
+* 🎨 Student-friendly modern UI
+* 📱 Responsive design
 
-## Run Locally
+## 🚀 Demo
 
-**Prerequisites:**  Node.js
+🔗 **Live Demo:** https://campusverse.ai.studio/
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* HTML
+* CSS
+* JavaScript
+* React
+* Google AI Studio
+
+## 📸 Preview
+
+Add screenshots of the CampusVerse interface here.
+
+## 🎯 Why CampusVerse?
+
+Students often have to check different platforms to find campus events, schedules, and activities. CampusVerse brings these experiences together into one simple and easy-to-use platform.
+
+## 🔮 Future Improvements
+
+* 3D interactive campus map
+* Personalized event recommendations
+* Student login and profiles
+* Notifications for upcoming events
+* Integration with college timetable systems
+* AI-powered campus assistant
+
+## 👩‍💻 Author
+
+**Ayushi Singh**
+
+GitHub: https://github.com/Ayushi-hi
+
+---
+
+⭐ If you like this project, consider giving it a star!
