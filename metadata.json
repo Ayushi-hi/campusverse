@@ -1,0 +1,8 @@
+{
+  "name": "CampusVerse",
+  "description": "Futuristic interactive Smart Campus Map with real-time events, class navigation, timetable sync, and AI Campus Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
